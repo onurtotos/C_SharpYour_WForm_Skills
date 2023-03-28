@@ -1,0 +1,11 @@
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Form1.resources
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\onurt\source\repos\FormProjeler\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
