@@ -1,0 +1,11 @@
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\bin\Debug\Alarm_Generator.exe.config
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\bin\Debug\Alarm_Generator.exe
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\bin\Debug\Alarm_Generator.pdb
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\obj\Debug\Alarm_Generator.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\obj\Debug\Alarm_Generator.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\obj\Debug\Alarm_Generator.Form1.resources
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\obj\Debug\Alarm_Generator.Properties.Resources.resources
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\obj\Debug\Alarm_Generator.csproj.GenerateResource.cache
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\obj\Debug\Alarm_Generator.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\obj\Debug\Alarm_Generator.exe
+C:\Users\onurt\source\repos\FormProjeler\Alarm_Generator\Alarm_Generator\obj\Debug\Alarm_Generator.pdb
