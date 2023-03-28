@@ -1,0 +1,11 @@
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\bin\Debug\Form_Ders1.exe.config
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\bin\Debug\Form_Ders1.exe
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\bin\Debug\Form_Ders1.pdb
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\obj\Debug\Form_Ders1.csproj.AssemblyReference.cache
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\obj\Debug\Form_Ders1.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\obj\Debug\Form_Ders1.Form1.resources
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\obj\Debug\Form_Ders1.Properties.Resources.resources
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\obj\Debug\Form_Ders1.csproj.GenerateResource.cache
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\obj\Debug\Form_Ders1.csproj.CoreCompileInputs.cache
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\obj\Debug\Form_Ders1.exe
+C:\Users\onurt\source\repos\C# Kurs\Form_Ders1\Form_Ders1\obj\Debug\Form_Ders1.pdb
